@@ -1,16 +1,18 @@
-## Hi there 👋
+# Satabdi Ganguly
 
-<!--
-**SatabdiG/SatabdiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build Kubernetes control planes for cloud platforms at SAP.
 
-Here are some ideas to get you started:
+- **Created** an internal Crossplane provider for multi-target application
+  deployments: architecture, roadmap, and the path from proof of concept to production
+- **Maintain** [crossplane-provider-cloudfoundry](https://github.com/SAP/crossplane-provider-cloudfoundry)
+  and set its direction with the community
+- **Led** a feasibility study on running Cloud Foundry–style workloads natively on Kubernetes
+- **Contribute** to [crossplane-provider-btp](https://github.com/SAP/crossplane-provider-btp)
+  and [crossplane-runtime](https://github.com/crossplane/crossplane-runtime)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about controllers that tell the truth about state, providers that
+release independently, and decisions backed by evidence.
+
+Go · Kubernetes · Crossplane · Berlin
+
+[LinkedIn](https://www.linkedin.com/in/satabdig/) · Writing (soon)
